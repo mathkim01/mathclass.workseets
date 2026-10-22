@@ -26,6 +26,12 @@ const worksheetMenu = [
       { title: "명제의 뜻", file: "activities/proposition-truth-set-worksheet.html" },
       { title: "조건과 진리집합", file: "activities/truth-set-steps-6-10-worksheet.html" }
     ]
+  },
+  {
+    title: "스스로 활동지 모음",
+    items: [
+      { title: "명제의 뜻", file: "activities/proposition-individual-worksheet.html" }
+    ]
   }
 ];
 
