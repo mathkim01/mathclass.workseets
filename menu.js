@@ -8,7 +8,8 @@ const worksheetMenu = [
 {
     title: "0. 수업노트",
     items: [
-      { title: "명제 첫시간", file: "activities/proposition-truth-84p.html" }
+      { title: "명제 첫번째 시간", file: "activities/proposition-truth-84p.html" },
+      { title: "명제 두번째 시간", file: "activities/proposition-truth-p91.html" }
     ]
  },  
 {
