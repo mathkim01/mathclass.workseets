@@ -32,7 +32,7 @@ const worksheetMenu = [
     title: "스스로 활동지 모음",
     items: [
       { title: "명제의 뜻", file: "activities/proposition-individual-worksheet.html" },
-      { title: "명제의 뜻", file: "activities/truth-set-individual-worksheet.html" }
+      { title: "조건과 진리집합", file: "activities/truth-set-individual-worksheet.html" }
     ]
   }
 ];
